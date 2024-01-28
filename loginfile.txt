@@ -1,0 +1,6 @@
+areeba,areeba56,admin
+fatima,fatima56,user
+izma,izma56,user
+ert,ert,ert
+faiza,faiza56,user
+gania,gaina,admin
